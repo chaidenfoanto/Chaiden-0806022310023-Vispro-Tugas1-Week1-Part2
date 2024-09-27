@@ -28,9 +28,6 @@ Ini adalah solusi dari berbagai soal algoritma pemrograman untuk mata kuliah Vis
 8. **Konsumsi Energi Listrik**
    - Program yang menghitung total konsumsi energi harian dari beberapa alat listrik.
 
-9. **Kombinasi Barang dalam Ransel**
-   - Program yang menentukan kombinasi barang bernilai tertinggi yang bisa dibawa dalam ransel dengan kapasitas terbatas.
-
 10. **Simulasi Antrian di Loket**
     - Program simulasi antrian nasabah pada dua loket dengan sistem pergantian.
 
@@ -42,9 +39,6 @@ Ini adalah solusi dari berbagai soal algoritma pemrograman untuk mata kuliah Vis
 
 13. **Efisiensi Penggunaan Mesin Cuci**
     - Program untuk mengatur efisiensi penggunaan mesin cuci oleh penghuni apartemen.
-
-14. **Rute Pengiriman Paket Terpendek**
-    - Program untuk menentukan rute terpendek bagi kurir yang harus mengantarkan 5 paket ke 5 lokasi.
 
 15. **Proyek Pembangunan Rumah**
     - Program untuk menentukan urutan pengerjaan proyek pembangunan rumah berdasarkan ketergantungan antar tahapan.
